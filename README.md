@@ -5,4 +5,4 @@ This content strategy contains the following six components:
 * Structure component = contains information mapping and an information model.
 * Standards component = contains standards compliance requirements, content impacts, and business context. 
 * Governance component = contains an analysis of distribution channels, publishing procedures, optimization & action items, trends &  analytics, and business context.
-* Workflow component = contains content workflow and workflow KPIs and standards.
+* SOP/Workflow component = contains an SOP and workflow KPIs and standards.
